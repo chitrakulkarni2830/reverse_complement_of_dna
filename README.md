@@ -67,8 +67,4 @@ Where:
 
 ---
 
-## 👨‍🔬 About the Author
-As an **MSc Biochemistry graduate** transitioning into **Data Analytics**, I specialize in building tools that make complex biological data accessible and actionable. My portfolio focuses on the intersection of Python automation, SQL database management, and Power BI visualization within the life sciences sector.
-
----
 *Developed for the intersection of Biology and Data Science.*
